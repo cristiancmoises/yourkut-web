@@ -1,2 +1,2 @@
-# yourkut-web
-Yourkut - Website
+# YOURKUT - CLONE DO ORKUT 
+
